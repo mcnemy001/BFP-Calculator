@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BFP Calculator</string>
+    <string name="nim">NIM : 10122384</string>
+    <string name="nama">Aziyusman Maulana</string>
+    <string name="title">Kalkulator Body Fat Percentage</string>
+    <string name="weight_hint">Berat Badan (kg)</string>
+    <string name="height_hint">Tinggi Badan (cm)</string>
+    <string name="age_hint">Usia (tahun)</string>
+    <string name="gender_label">Jenis Kelamin</string>
+    <string name="male">Laki-laki</string>
+    <string name="female">Perempuan</string>
+    <string name="calculate_button">Hitung BFP</string>
+    <string name="title_result">Hasil Perhitungan BFP</string>
+    <string name="bmi_label">BMI (Body Mass Index)</string>
+    <string name="bfp_label">BFP (Body Fat Percentage)</string>
+    <string name="category_label">Kategori</string>
+    <string name="info_reference">Referensi Kategori:\n• &lt; 10% : Sangat Rendah\n• 10-20% : Rendah\n• 21-25% : Normal\n• 26-30% : Tinggi\n• > 30% : Sangat Tinggi</string>
+    <string name="btn_info_dev">Info Pengembang</string>
+    <string name="developed_by">Developed by</string>
+
+</resources>
